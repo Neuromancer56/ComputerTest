@@ -1,4 +1,4 @@
-minetest.register_node("ComputerTest:Turtle", {
+minetest.register_node("computertest:Turtle", {
 	description = "Turtle",
 	tiles = {
 	"TurtleBlank.png",
